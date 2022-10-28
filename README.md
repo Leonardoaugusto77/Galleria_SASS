@@ -4,9 +4,7 @@
 
 <ul>
      <li>O Projeto tem o foco em Práticar FlexBox & SASS ⌨️</li>
-     
-     <li>Nesse projeto eu aprendi a utilziar Mixins, variables e next do SASS</li>
-     
+     <li>Nesse projeto eu aprendi a utilziar Mixins, variables e next do SASS</li>
      <li>O Projeto é totalmente responsivo para celulares</li>
 </ul>
 <br>
